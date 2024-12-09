@@ -1,0 +1,56 @@
+
+Relational Graph Quality:
+Full marks(2) The graph will convey an xy relation. The axes labels will be fully readable without effort & relations(s) will be clear.
+
+Categorical Graph Quality:
+Full marks(2) The graph will compare multiple categories.
+The axes labels will be fully readable without effort and the appearance will be clear.
+
+Statistical Graph Quality: 
+Full marks(2) The graph will communicate a statistical relation. The axes labels will be fully readable without effort and the appearance will be clear.
+
+Qualtity Of Analysis:
+Full Marks(5) The explanation is clear & coherent. Statistics are used to suport statments. There is is a connecting store line.
+
+Spelling & Grammer:
+Full marks(1) The splelling & grammer is correct.
+
+Relational Graph Function:
+Full marks(1) Function with docstring which only creates one plot.
+
+Categorical Graph Function:
+Full marks(1) Function with docstring which only creates one plot.
+
+Statistical Graph Function:
+Full marks(1) Function with docstring which only creates one plot.
+
+Statistical Depth:
+Full marks(3) All major moments shown (mean/median, standard deviation, skewness, kurtosis.) Correlation matrix and basic "describe" used.
+
+Code Quality:
+Full mark(2) Code is easy to read & follow major PEP-8 recommendations: import> functions> variables order:functions separated by exactly two lines (one if in a class) or sole occupier
+of notebook cell; spaces after commas and around assignment/ mathermatical operatiors
+
+Clustring Function:
+Full marks(1) Function with docstring which only creates one plot.
+
+Fitting Function:
+Full marks(1) Function with docstring which only creates one plot.
+
+Clustring Quality:
+Full marks(6) The clusters will appear well grouped. The data will have been normalised & back scaled to present. Clear use of silhouette score/elbow method to select
+cluster amount. The graph will have coloured graphs & labelled cluster centers in the legend. The data will be appropriate for clustring.
+
+Fitting Quality:
+Full marks(5) The data will be fitted & suitable for fitting. The plot will include a good confidence interval & errorbars.
+
+Clustering Prediction:
+Full marks(4): Several predicted points will be attached to appropriate groups & clearly labelled & coloured.
+
+Fitting Prediction:
+Full marks(3) Several prediction with good, associated uncertainites are shown.
+
+
+
+
+
